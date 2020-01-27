@@ -17,6 +17,10 @@ The imaginative software called `Specialty` should perform like the following
 - `docker` as the container
 - `GKE` with preemptive nodes as the container engine
 
+## Results
+### API that responds in less than 20ms
+![API response time](https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif)
+
 ## Getting Started
 
 ### Prerequisite
