@@ -1,7 +1,7 @@
 # Specialty
-
-Like a chef cooks a specialty, and choose the best ingredients; herewith my pick of choices for the JS framework, server-side, and infrastructure option to build my software.
-The imaginative software called `Specialty` should perform like the following
+ (using Docker)
+Like a chef (use Golang and Gin module) cooks a specialty, (use ReactJS) and choose the best ingredients to cook; herewith my pick of choices for `specialty`.
+`Specialty` is a bootstrap application stack from the infrastructure (using Docker), server-side (use Golang and Gin module), and client-side (use ReactJS)
 
 - It must look sleek
 - It must run fast
@@ -10,7 +10,6 @@ The imaginative software called `Specialty` should perform like the following
 - It starts as a website and would have its mobile app version
 
 ## Ingredients
-
 - `golang` as the server-side
 - `ReactJS` as the front-end framework
 - `https://material-ui.com/` as the UI library
