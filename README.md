@@ -41,6 +41,7 @@ Build client side script
 ```
 cd client
 npm install
+npm run-script build
 ```
 
 ## Command references
