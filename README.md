@@ -1,6 +1,6 @@
 # Specialty
 Like a chef cooks a specialty and choose the best ingredients to cook; herewith my pick of choices for `specialty`.
-`Specialty` is a bootstrap application stack from the infrastructure (using Docker + run in Cloud Service), server-side (use Golang and Gin module), and client-side (use ReactJS)
+`Specialty` is a bootstrap of application stack from the infrastructure (using Docker + run in Cloud Service), server-side (use Golang and Gin module), and client-side (use ReactJS)
 
 Below are things in mind while choosing my `specialty`
 - [x]  It must look sleek
