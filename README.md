@@ -46,3 +46,5 @@ cd $GOPATH/src/github.com/isuhendro/gin-react
 docker build . -t specialty
 docker run -i -t -p 5000:5000 specialty
 ```
+Docker Cheat Sheet
+https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf
