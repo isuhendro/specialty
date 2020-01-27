@@ -1,13 +1,13 @@
 # Specialty
- (using Docker)
-Like a chef (use Golang and Gin module) cooks a specialty, (use ReactJS) and choose the best ingredients to cook; herewith my pick of choices for `specialty`.
-`Specialty` is a bootstrap application stack from the infrastructure (using Docker), server-side (use Golang and Gin module), and client-side (use ReactJS)
+Like a chef cooks a specialty and choose the best ingredients to cook; herewith my pick of choices for `specialty`.
+`Specialty` is a bootstrap application stack from the infrastructure (using Docker + run in Cloud Service), server-side (use Golang and Gin module), and client-side (use ReactJS)
 
-- It must look sleek
-- It must run fast
-- It should be extensible as a massive software and maintainable in a large team
-- It should run in less than 20\$ monthly
-- It starts as a website and would have its mobile app version
+Below are things in mind while choosing my `specialty`
+-[x]  It must look sleek
+-[x]  It must run fast
+-[x]  It should be extensible as a massive software and maintainable in a large team
+-[x]  It should run in less than 20\$ monthly
+-[x]  It starts as a website and would have its mobile app version
 
 ## Ingredients
 - `golang` as the server-side
