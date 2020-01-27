@@ -18,7 +18,10 @@ The imaginative software called `Specialty` should perform like the following
 - `GKE` with preemptive nodes as the container engine
 
 ## Results
-### API that responds in less than 20ms
+### Web Application using ReactJS
+![ReactGin](https://user-images.githubusercontent.com/241914/73169007-11bf2380-4136-11ea-85e4-24b4379a9495.gif)
+
+### Web API that responds in less than 20ms
 ![API response time](https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif)
 
 ## Getting Started
