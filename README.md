@@ -18,17 +18,22 @@ The imaginative software called `Specialty` should perform like the following
 - `GKE` with preemptive nodes as the container engine
 
 ## Getting Started
-1. Download Docker Desktop https://hub.docker.com/?overlay=onboarding , and install in your machine
-2. Clone this repository in your local https://github.com/isuhendro/specialty
+
+### Prerequisite
+> Download `Docker Desktop` https://hub.docker.com/?overlay=onboarding , and install in your machine
+> Download `GoLang`, and install in your machine https://golang.org/dl/
+
+Clone this repository in your local https://github.com/isuhendro/specialty
 ```
 git clone https://github.com/isuhendro/specialty
 ```
-3. Build docker image in your local by running below command
+
+Build docker image in your local by running below command
 ```
 docker image build -t v1.0.0 .
 ```
 
-4. Build client side script
+Build client side script
 ```
 cd client
 npm install
