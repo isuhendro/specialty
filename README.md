@@ -23,9 +23,9 @@ The imaginative software called `Specialty` should perform like the following
 ```
 git clone https://github.com/isuhendro/specialty
 ```
-3. Run
+3. Build docker image in your local by running below command
 ```
-docker image build .
+docker image build -t v1.0.0 .
 ```
 
 ## Command references
