@@ -28,6 +28,12 @@ git clone https://github.com/isuhendro/specialty
 docker image build -t v1.0.0 .
 ```
 
+4. Build client side script
+```
+cd client
+npm install
+```
+
 ## Command references
 
 ```
