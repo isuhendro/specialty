@@ -9,7 +9,7 @@ The imaginative software called `Specialty` should perform like the following
 - It should run in less than 20\$ monthly
 - It starts as a website and would have its mobile app version
 
-## Ingredient
+## Ingredients
 
 - `golang` as the server-side
 - `ReactJS` as the front-end framework
