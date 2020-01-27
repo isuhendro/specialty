@@ -43,7 +43,7 @@ npm install
 
 ```
 cd $GOPATH/src/github.com/isuhendro/gin-react
-docker build . -t specialty
+docker build -t specialty:1.0 .
 docker run -i -t -p 5000:5000 specialty
 ```
 Docker Cheat Sheet
