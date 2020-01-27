@@ -23,7 +23,10 @@ The imaginative software called `Specialty` should perform like the following
 ```
 git clone https://github.com/isuhendro/specialty
 ```
-3. 
+3. Run
+```
+docker image build .
+```
 
 ## Command references
 
