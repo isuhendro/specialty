@@ -37,8 +37,9 @@ Below are things in mind while choosing my `specialty`
 </p>
 
 ### Less Than 2\$ monthly
-![image](https://user-images.githubusercontent.com/241914/73497930-e585fa00-43f6-11ea-80b3-bc8febaa88e0.png)
-https://cloud.google.com/products/calculator/#id=54e301ef-f311-433c-8175-736c234e9909
+<p align="center">
+  <img width="500" src="https://cloud.google.com/products/calculator/#id=54e301ef-f311-433c-8175-736c234e9909">
+</p>
 
 ## Getting Started
 
