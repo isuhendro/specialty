@@ -32,6 +32,7 @@ Below are things in mind while choosing my `specialty`
 </p>
 
 ### Fast Web API. Thanks to GoLang & Gin!
+Note that at server side, individual HTTP request are responded in less than `1 milisecond`.
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif">
 </p>
