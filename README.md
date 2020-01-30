@@ -32,7 +32,9 @@ Below are things in mind while choosing my `specialty`
 </p>
 
 ### Fast Web API. Thanks to GoLang & Gin!
-![API response time](https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif)
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif">
+</p>
 
 ### Less Than 2\$ monthly
 
