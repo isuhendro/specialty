@@ -8,7 +8,7 @@ Below are things in mind while choosing my `specialty`
 - [x] It looks sleek (imagination is your limit), but still modular. Answers: `ReactJS`
 - [x] It must run fast. Answer: `GoLang`, `Gin`
 - [x] It should be extensible as a massive software and maintainable in a large team. Answer: `Docker`, `Google Cloud Run`
-- [x] It should run in less than 20\$ monthly. Answer: `Docker`, `Google Cloud Run`
+- [x] It should run in less than `2\$` monthly. Answer: `Docker`, `Google Cloud Run`
 - [x] It starts as a website and would have its mobile app version without additional learning curve. Answer: `React`, `React Native`
 
 ## Ingredients
