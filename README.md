@@ -19,10 +19,12 @@ Below are things in mind while choosing my `specialty`
 - `docker` as the container
 - `GKE` with preemptive nodes as the container engine
 
-## Results
+## The Results
 
 ### Running in Docker Container
-![docker](https://user-images.githubusercontent.com/241914/73497581-144fa080-43f6-11ea-8803-2690f6440326.gif)
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/241914/73497581-144fa080-43f6-11ea-8803-2690f6440326.gif">
+</p>
 
 ### ReactJS as the front-end
 <p align="center">
