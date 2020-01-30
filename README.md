@@ -1,6 +1,6 @@
 # Specialty
 
-Like a chef cooks a specialty and choose the best ingredients to cook; herewith my pick of choices for `specialty`.
+Like a chef cooks a specialty and choose the best ingredients to cook; herewith my pick of ingredients for `specialty`.
 `Specialty` is a bootstrap of application stack from the infrastructure (using `Docker` + run in `Google Cloud Run`), server-side (use `Golang` as preferred language and `Gin` as its HTTP server), and client-side (use `ReactJS`)
 
 Below are things in mind while choosing my `specialty`
