@@ -22,5 +22,7 @@ The imaginative software called `Specialty` should perform like the following
 ```
 cd $GOPATH/src/github.com/isuhendro/gin-react
 docker build . -t specialty
-docker run -i -t -p 5000:5000 specialty
+docker run -i -t -p 5000:5000 isuhendro/specialty:1.0
 ```
+
+https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf
