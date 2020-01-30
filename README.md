@@ -21,23 +21,23 @@ Below are things in mind while choosing my `specialty`
 
 ## The Results
 
-### Running in Docker Container
+### 1. Running in Docker Container
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73497581-144fa080-43f6-11ea-8803-2690f6440326.gif">
 </p>
 
-### ReactJS as the front-end
+### 2. ReactJS as the front-end
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png">
 </p>
 
-### Fast Web API. Thanks to GoLang & Gin!
+### 3. Fast Web API. Thanks to GoLang & Gin!
 Note that at server side, individual HTTP request are responded in less than `1 milisecond`.
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif">
 </p>
 
-### Less Than 2\$ monthly
+### 4. Less Than 2\$ monthly
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73497930-e585fa00-43f6-11ea-80b3-bc8febaa88e0.png">
 </p>
