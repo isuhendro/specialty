@@ -1,11 +1,12 @@
 # Specialty
 
-Like a chef cooks a specialty and choose the best ingredients to cook; herewith my pick of ingredients for `specialty`.
+Like a chef cooks a specialty dish and choose the best ingredients to cook; herewith my pick of ingredients for `specialty`.
 `Specialty` is a bootstrap of application stack from the infrastructure (using `Docker` + run in `Google Cloud Run`), server-side (use `Golang` as preferred language and `Gin` as its HTTP server), and client-side (use `ReactJS`)
 
+## Considerations
 Below are things in mind while choosing my `specialty`
 
-- [x] It looks sleek (imagination is your limit), but still modular. Answers: `ReactJS`
+- [x] The end product must look sleek (imagination is your only limit), but still modular. Answers: `ReactJS`
 - [x] It must run fast. Answer: `GoLang`, `Gin`
 - [x] It should be extensible as a massive software and maintainable in a large team. Answer: `Docker`, `Google Cloud Run`
 - [x] It operates in thin budget i.e. less than `2$ monthly`. Answer: `Google Cloud Run`
