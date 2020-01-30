@@ -21,13 +21,15 @@ Below are things in mind while choosing my `specialty`
 
 ## Results
 
-### Web Application using ReactJS
+### Running in Docker Container
+![docker](https://user-images.githubusercontent.com/241914/73497581-144fa080-43f6-11ea-8803-2690f6440326.gif)
+
+### ReactJS as the front-end
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png">
 </p>
 
-### Web API that responds in less than 20ms
-
+### Fast Web API. Thanks to GoLang & Gin!
 ![API response time](https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif)
 
 ### Less Than 2\$ monthly
