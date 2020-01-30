@@ -22,8 +22,7 @@ Below are things in mind while choosing my `specialty`
 ## Results
 
 ### Web Application using ReactJS
-
-![ReactGin](https://user-images.githubusercontent.com/241914/73169007-11bf2380-4136-11ea-85e4-24b4379a9495.gif)
+![image](https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png)
 
 ### Web API that responds in less than 20ms
 
