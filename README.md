@@ -24,7 +24,7 @@ Below are things in mind while choosing my `specialty`
 ### Web Application using ReactJS
 ![image](https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png)
 <p align="center">
-  <img width="460" src="https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png">
+  <img width="250" src="https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png">
 </p>
 
 ### Web API that responds in less than 20ms
