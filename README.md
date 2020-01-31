@@ -4,6 +4,7 @@ Like a chef cooks a specialty dish and choose the best ingredients to cook; here
 `Specialty` is a bootstrap of application stack from the infrastructure (using `Docker` + run in `Google Cloud Run`), server-side (use `Golang` as preferred language and `Gin` as its HTTP server), and client-side (use `ReactJS`)
 
 ## Considerations
+
 Below are things in mind while choosing my `specialty`
 
 - [x] The end product must look sleek (imagination is your only limit), but still modular. Answers: `ReactJS`
@@ -23,22 +24,27 @@ Below are things in mind while choosing my `specialty`
 ## The Results
 
 ### 1. Running in Docker Container
+
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73497581-144fa080-43f6-11ea-8803-2690f6440326.gif">
 </p>
 
 ### 2. ReactJS as the front-end
+
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73496412-81156b80-43f3-11ea-83bf-725079489ded.png">
 </p>
 
 ### 3. Fast Web API. Thanks to GoLang & Gin!
+
 Note that at server side, individual HTTP request are responded in less than `1 milisecond`.
+
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73164569-2814b180-412d-11ea-9148-08b7f109c58e.gif">
 </p>
 
 ### 4. Less Than 2\$ monthly
+
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/241914/73497930-e585fa00-43f6-11ea-80b3-bc8febaa88e0.png">
 </p>
@@ -82,3 +88,10 @@ docker run -i -t -p 5000:5000 isuhendro/specialty:1.0
 
 Docker Cheat Sheet
 https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf
+
+## Build Cloud Run
+
+https://cloud.google.com/run/docs/quickstarts/build-and-deploy
+
+gcloud builds submit --tag gcr.io/iwan-specialty/helloworld
+gcloud run deploy --image gcr.io/iwan-specialty/helloworld --platform managed
