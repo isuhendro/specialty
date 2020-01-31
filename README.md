@@ -95,3 +95,7 @@ https://cloud.google.com/run/docs/quickstarts/build-and-deploy
 
 gcloud builds submit --tag gcr.io/iwan-specialty/helloworld
 gcloud run deploy --image gcr.io/iwan-specialty/helloworld --platform managed
+
+ERROR: (gcloud.run.deploy) Cloud Run error: Container failed to start. Failed to start and then listen on the port defined by the PORT environment variable. Logs for this revision might contain more information.
+
+https://cloud.google.com/run/docs/reference/container-contract#port
