@@ -2,7 +2,8 @@ import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles";
 import React, { Component } from "react";
 import { I18nextProvider } from "react-i18next";
 import i18n from "./i18n";
-import Home from "./components/Home";
+import Main from "./components/main";
+import Layout from "./components/layout";
 
 const theme = createMuiTheme({
   zIndex: {},
@@ -35,7 +36,9 @@ class Blog extends Component {
     return (
       <MuiThemeProvider theme={theme}>
         <I18nextProvider i18n={i18n}>
-          <Home />
+          <Layout>
+            <Main />
+          </Layout>
         </I18nextProvider>
       </MuiThemeProvider>
     );
