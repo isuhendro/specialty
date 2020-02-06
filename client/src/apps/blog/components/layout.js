@@ -8,6 +8,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Header from "./header";
+import FooterNavigation from "./footerNavigation";
+import FooterTemplate from "./footerTemplate";
+
+import "./layout.css";
 
 const Layout = ({ children }) => {
   return (
@@ -22,9 +26,9 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.specialtyjs.org">Specialty</a>
+          <FooterTemplate>
+            <FooterNavigation />
+          </FooterTemplate>
         </footer>
       </div>
     </>
