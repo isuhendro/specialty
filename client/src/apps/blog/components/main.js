@@ -22,13 +22,24 @@ export default function AutoGrid() {
     <div className={classes.root}>
       <Grid container spacing={3}>
         <Grid item xs>
-          <Card />
+          <Card
+            image={{
+              url:
+                "https://t4.ftcdn.net/jpg/02/08/71/09/240_F_208710936_hUahzhJKjGtD6SAbKJspXRabRa5kk6vI.jpg",
+              tinyUrl:
+                "https://t4.ftcdn.net/jpg/02/08/71/09/240_F_208710936_hUahzhJKjGtD6SAbKJspXRabRa5kk6vI.jpg"
+            }}
+          />
         </Grid>
         <Grid item xs>
-          <Card />
-        </Grid>
-        <Grid item xs>
-          <Card />
+          <Card
+            image={{
+              url:
+                "https://images.pexels.com/photos/59782/pexels-photo-59782.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+              tinyUrl:
+                "https://images.pexels.com/photos/59782/pexels-photo-59782.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            }}
+          />
         </Grid>
       </Grid>
     </div>

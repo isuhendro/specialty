@@ -7,6 +7,7 @@ import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
+import ProgressiveImage from "react-progressive-image";
 
 const useStyles = makeStyles({
   root: {
@@ -14,7 +15,9 @@ const useStyles = makeStyles({
   }
 });
 
-export default function ImgMediaCard() {
+export default function ImgMediaCard(props) {
+  console.log("=> props", props);
+  const { image } = props;
   const classes = useStyles();
 
   return (
@@ -28,13 +31,17 @@ export default function ImgMediaCard() {
     >
       <Card className={classes.root}>
         <CardActionArea>
-          <CardMedia
-            component="img"
-            alt="Contemplative Reptile"
-            height="140"
-            image="https://material-ui.com/static/images/cards/contemplative-reptile.jpg"
-            title="Contemplative Reptile"
-          />
+          <ProgressiveImage src={image.url} placeholder={image.tinyUrl}>
+            {src => (
+              <CardMedia
+                component="img"
+                alt="Contemplative Reptile"
+                height="140"
+                image={src}
+                title="Contemplative Reptile"
+              />
+            )}
+          </ProgressiveImage>
           <CardContent>
             <Typography gutterBottom variant="h5" component="h2">
               Lizard
